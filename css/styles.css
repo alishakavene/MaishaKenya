@@ -90,3 +90,14 @@ h4::after {
 	margin: 5px auto 25px;
 	box-shadow: 5px 2px 3px rgba(0,0,0,0.5);
 }
+
+.font-weight-light::after{
+  /* This is the underline */
+	display: block;
+	content: "";
+	height: 2px;
+	width: 125px;
+	background: green;
+	margin: 5px auto 25px;
+	box-shadow: 5px 2px 3px rgba(0,0,0,0.5);
+}
