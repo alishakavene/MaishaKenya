@@ -14,3 +14,13 @@ box-sizing: border-box;
   z-index: 1;
   border-bottom: 2px solid white;
 }
+.navbar ul li a {
+  color: black;
+  transition:color 0.3s;
+
+}
+
+.navbar li a:hover{
+  background-color: white;
+  color:  #419ab5;
+}
