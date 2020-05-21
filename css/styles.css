@@ -43,3 +43,24 @@ width:100%;
   font-weight: 600;
 
 }
+
+
+.stat {
+align-items: center;
+text-align: center;
+background-color: green;
+height: 300px;
+padding-left: 320px;
+padding-top: 60px;
+padding-bottom:0px;
+color: white;
+background-attachment: fixed;
+margin-top: 100px;
+}
+.stat p{
+  font-size: 30px;
+}
+.stat i{
+  font-size: 40px;
+  color: white;
+}
